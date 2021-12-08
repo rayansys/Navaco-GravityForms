@@ -15,7 +15,7 @@ class GFPersian_Gateway_navaco {
     //Dont Change this Parameter if you are legitimate !!!
     public static $author = "HANNANStd";
 
-    const url = "https://fcp.shaparak.ir/nvcservice/Api/v2/";
+    const url = "http://79.174.161.132:8181/nvcservice/Api/v2/";
     private static $version = "2.3.0";
     private static $min_gravityforms_version = "1.9.10";
     private static $config = null;
